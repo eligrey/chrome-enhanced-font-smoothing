@@ -7,13 +7,8 @@ The Enhanced Windows Font Smoothing Google Chrome extension improves font smooth
 Screenshots
 -----------
 
-### Before
-
-![Before screenshot][before]
-
-### After
-
-![After screenshot][after]
+* [Before][before]
+* [After][after]
 
   [before]: http://github.com/eligrey/chrome-enhanced-font-smoothing/raw/master/screenshots/before.png
   [after]: http://github.com/eligrey/chrome-enhanced-font-smoothing/raw/master/screenshots/after.png
