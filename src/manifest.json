@@ -1,0 +1,16 @@
+{
+	  "name": "Enhanced Windows Font Smoothing"
+	, "version": "1.0"
+	, "description": "Improves font smoothing (especially in large text) in Google Chrome on Windows."
+	, "icons": {
+		  "16": "images/icon-16.png"
+		, "48": "images/icon-48.png"
+		, "128": "images/icon-128.png"
+	}
+	, "content_scripts": [{
+		  "matches": ["<all_urls>"]
+		, "css": ["font-smoothing.css"]
+		, "run_at": "document_start"
+		, "all_frames": true
+	}]
+}
