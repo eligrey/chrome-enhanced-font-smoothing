@@ -13,4 +13,4 @@ Screenshots
   [before]: //github.com/eligrey/chrome-enhanced-font-smoothing/raw/master/screenshots/before.png
   [after]: //github.com/eligrey/chrome-enhanced-font-smoothing/raw/master/screenshots/after.png
 
-![Tracking image](//in.getclicky.com/212712ns.gif =1x1)
+![Tracking image](//in.getclicky.com/212712ns.gif)
